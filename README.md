@@ -18,3 +18,4 @@ Bellek İçi (In-Memory) Veri Yönetimi: Dictionary<string, List<string>> kullan
 
 
 
+<img width="810" height="486" alt="image" src="https://github.com/user-attachments/assets/2698ae3b-cf12-4788-a8b1-6a3f81451b36" />
